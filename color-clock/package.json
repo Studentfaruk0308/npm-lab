@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "Learning NPM and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "Md Faruk Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
